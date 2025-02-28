@@ -1,0 +1,12 @@
+﻿
+
+CORS
+DTOшки
+Контроллеры
+	UsersController (регистрация, авторизация, профили)
+
+	PostsController (создание/получение постов)
+
+	CommentsController (работа с комментариями)
+
+	FriendsController (управление друзьями)

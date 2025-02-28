@@ -1,4 +1,4 @@
-﻿namespace reactJsSocialNet_Back.Data.DTO
+﻿namespace reactJsSocialNet_Back.DTO
 {
     public record UserDto(
         int Id,
